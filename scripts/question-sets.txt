@@ -1,0 +1,132 @@
+[Sports]
+Name any sport on the Paris 2024 Olympic programme.|Athletics;Swimming;Basketball;Football;Tennis;Golf;Boxing;Wrestling;Judo;Fencing;Cycling;Rowing;Sailing;Canoeing;Gymnastics;Badminton;Table tennis;Volleyball;Handball;Hockey;Archery;Shooting;Triathlon;Weightlifting;Taekwondo;Skateboarding;Surfing;Breaking;Rugby sevens;Sport climbing
+Name a sport played with a racket.|Tennis;Badminton;Squash;Table tennis;Racquetball;Padel
+Name a Winter Olympic sport contested in 2022.|Alpine skiing;Biathlon;Bobsleigh;Curling;Figure skating;Ice hockey;Luge;Skeleton;Ski jumping;Snowboarding;Speed skating;Cross-country skiing
+Name a men's tennis Grand Slam singles champion before 2025.|Roger Federer;Rafael Nadal;Novak Djokovic;Andy Murray;Pete Sampras;Andre Agassi;Boris Becker;John McEnroe;Bjorn Borg;Rod Laver;Carlos Alcaraz;Jannik Sinner;Stan Wawrinka;Marin Cilic;Lleyton Hewitt;Andy Roddick;Daniil Medvedev;Dominic Thiem;Gustavo Kuerten;Juan Martin del Potro
+Name a women's tennis Grand Slam singles champion before 2025.|Serena Williams;Venus Williams;Steffi Graf;Martina Navratilova;Chris Evert;Billie Jean King;Naomi Osaka;Iga Swiatek;Coco Gauff;Aryna Sabalenka;Maria Sharapova;Martina Hingis;Justine Henin;Kim Clijsters;Ashleigh Barty;Simona Halep;Petra Kvitova;Caroline Wozniacki;Emma Raducanu;Elena Rybakina
+Name a piece of protective equipment used in sports.|Helmet;Mouthguard;Shin guards;Goggles;Knee pads;Elbow pads;Shoulder pads;Chest protector;Boxing gloves
+Name an Olympic swimming stroke.|Freestyle;Backstroke;Breaststroke;Butterfly
+Name a fielding position in cricket.|Slip;Gully;Point;Cover;Mid-off;Mid-on;Square leg;Fine leg;Third man;Wicketkeeper;Long-on;Long-off
+Name an Olympic athletics throwing event.|Shot put;Discus throw;Javelin throw;Hammer throw
+Name an Olympic athletics jumping event.|High jump;Long jump;Triple jump;Pole vault
+Name a Summer Olympics host city before 2025.|Athens;Paris;London;Stockholm;Antwerp;Amsterdam;Los Angeles;Berlin;Helsinki;Melbourne;Rome;Tokyo;Mexico City;Munich;Montreal;Moscow;Seoul;Barcelona;Atlanta;Sydney;Beijing;Rio de Janeiro
+Name a Winter Olympics host city before 2025.|Chamonix;St Moritz;Lake Placid;Oslo;Cortina d'Ampezzo;Innsbruck;Grenoble;Sapporo;Sarajevo;Calgary;Albertville;Lillehammer;Nagano;Salt Lake City;Turin;Vancouver;Sochi;Pyeongchang;Beijing;Garmisch-Partenkirchen
+Name a men's Rugby World Cup champion before 2025.|New Zealand;Australia;England;South Africa
+Name a men's Cricket World Cup champion before 2025.|Australia;India;West Indies;Pakistan;Sri Lanka;England
+Name a way a batter can be dismissed in cricket.|Bowled;Caught;Leg before wicket;Run out;Stumped;Hit wicket;Obstructing the field;Timed out;Hit the ball twice
+Name a Formula One World Drivers' Champion before 2025.|Lewis Hamilton;Michael Schumacher;Max Verstappen;Sebastian Vettel;Fernando Alonso;Ayrton Senna;Alain Prost;Niki Lauda;Nico Rosberg;Jenson Button;Kimi Raikkonen;Mika Hakkinen;Damon Hill;Nigel Mansell;Nelson Piquet;Jackie Stewart;Jim Clark;Juan Manuel Fangio;Jack Brabham;Emerson Fittipaldi
+Name a sport in which competitors wear skates.|Ice hockey;Figure skating;Speed skating;Short track speed skating;Roller derby;Bandy;Roller hockey
+Name a circuit that hosted Formula One before 2025.|Silverstone;Monza;Spa-Francorchamps;Suzuka;Monaco;Interlagos;Nurburgring;Hockenheimring;Circuit of the Americas;Bahrain International Circuit;Yas Marina;Albert Park
+Name a men's golf major championship.|Masters;PGA Championship;US Open;The Open Championship
+Name a golfer who won a men's major before 2025.|Tiger Woods;Jack Nicklaus;Arnold Palmer;Gary Player;Tom Watson;Phil Mickelson;Rory McIlroy;Jordan Spieth;Brooks Koepka;Scottie Scheffler;Ernie Els;Vijay Singh;Seve Ballesteros;Nick Faldo;Ben Hogan;Bobby Jones;Sam Snead;Dustin Johnson;Justin Thomas;Collin Morikawa
+Name a scoring term in golf.|Par;Birdie;Eagle;Bogey;Double bogey;Albatross;Hole in one;Triple bogey
+Name a combat sport.|Boxing;Wrestling;Judo;Karate;Taekwondo;Kickboxing;Muay Thai;Fencing;Brazilian jiu-jitsu;Mixed martial arts
+Name a country in rugby's men's Six Nations competition in 2024.|England;Scotland;Wales;Ireland;France;Italy
+Name a men's Tour de France winner from 1980 through 2024 who retains the title.|Tadej Pogacar;Jonas Vingegaard;Egan Bernal;Geraint Thomas;Chris Froome;Vincenzo Nibali;Cadel Evans;Andy Schleck;Carlos Sastre;Alberto Contador;Oscar Pereiro;Miguel Indurain;Greg LeMond;Stephen Roche;Bernard Hinault;Laurent Fignon
+Name a sport played with a ball.|Football;Basketball;Tennis;Golf;Cricket;Baseball;Volleyball;Handball;Rugby;Softball;Squash;Table tennis;Water polo;Dodgeball;Lacrosse;Netball;Billiards;Bocce;Bowling;Field hockey
+Name a scoring action in rugby union.|Try;Conversion;Penalty goal;Drop goal;Penalty try
+Name a country with a national team in the 2023 men's Cricket World Cup.|India;Australia;England;Pakistan;New Zealand;South Africa;Sri Lanka;Bangladesh;Afghanistan;Netherlands
+Name an apparatus used in women's artistic gymnastics.|Vault;Uneven bars;Balance beam;Floor
+Name a men's artistic gymnastics apparatus.|Floor;Pommel horse;Still rings;Vault;Parallel bars;Horizontal bar
+Name a sport played primarily on sand.|Beach volleyball;Beach soccer;Beach handball;Beach tennis;Beach rugby
+Name an Olympic multi-sport event.|Triathlon;Decathlon;Heptathlon;Modern pentathlon;Biathlon;Nordic combined
+Name a board sport.|Snowboarding;Skateboarding;Surfing;Windsurfing;Wakeboarding;Kitesurfing;Paddleboarding;Sandboarding
+[Basketball]
+Name any player who appeared in an NBA game before 2025.|LeBron James;Stephen Curry;Michael Jordan;Kobe Bryant;Shaquille O'Neal;Kevin Durant;Tim Duncan;Magic Johnson;Larry Bird;Kareem Abdul-Jabbar;Giannis Antetokounmpo;Nikola Jokic;Luka Doncic;Jayson Tatum;Joel Embiid;Allen Iverson;Dwyane Wade;Dirk Nowitzki;Hakeem Olajuwon;Kevin Garnett;Chris Paul;Steve Nash;Russell Westbrook;James Harden;Kawhi Leonard;Scottie Pippen;Charles Barkley;Paul Pierce;Reggie Miller;Ray Allen
+Name an NBA franchise based in California in 2024.|Los Angeles Lakers;Los Angeles Clippers;Golden State Warriors;Sacramento Kings
+Name an NBA team that won a championship before 2025.|Boston Celtics;Los Angeles Lakers;Chicago Bulls;Golden State Warriors;San Antonio Spurs;Miami Heat;Detroit Pistons;Philadelphia 76ers;Houston Rockets;New York Knicks;Milwaukee Bucks;Dallas Mavericks;Cleveland Cavaliers;Toronto Raptors;Denver Nuggets;Portland Trail Blazers;Washington Wizards;Sacramento Kings;Atlanta Hawks;Oklahoma City Thunder
+Name a basketball position.|Point guard;Shooting guard;Small forward;Power forward;Center
+Name an NBA regular-season MVP before 2025.|Michael Jordan;LeBron James;Stephen Curry;Nikola Jokic;Giannis Antetokounmpo;Joel Embiid;Kevin Durant;James Harden;Russell Westbrook;Kobe Bryant;Steve Nash;Tim Duncan;Shaquille O'Neal;Allen Iverson;Kevin Garnett;Dirk Nowitzki;Karl Malone;Charles Barkley;Magic Johnson;Larry Bird
+Name a basketball rule violation.|Traveling;Double dribble;Goaltending;Backcourt violation;Shot clock violation;Three-second violation;Kicking the ball;Carrying
+Name a player on the 1992 US Olympic men's basketball Dream Team.|Michael Jordan;Magic Johnson;Larry Bird;Charles Barkley;Scottie Pippen;Patrick Ewing;David Robinson;Karl Malone;John Stockton;Clyde Drexler;Chris Mullin;Christian Laettner
+Name an NBA Sixth Man of the Year before 2025.|Manu Ginobili;Jamal Crawford;Lou Williams;James Harden;Lamar Odom;Jason Terry;Toni Kukoc;Kevin McHale;Dell Curry;Leandro Barbosa;Jordan Clarkson;Tyler Herro;Malcolm Brogdon;Naz Reid
+Name a way to score in basketball.|Free throw;Layup;Dunk;Jump shot;Three-pointer;Hook shot;Bank shot;Floater
+Name a WNBA franchise active in the 2024 season.|Las Vegas Aces;New York Liberty;Seattle Storm;Phoenix Mercury;Los Angeles Sparks;Minnesota Lynx;Chicago Sky;Indiana Fever;Connecticut Sun;Washington Mystics;Atlanta Dream;Dallas Wings
+Name a WNBA MVP before 2025.|A'ja Wilson;Breanna Stewart;Elena Delle Donne;Candace Parker;Diana Taurasi;Maya Moore;Tina Charles;Nneka Ogwumike;Sylvia Fowles;Lauren Jackson;Lisa Leslie;Sheryl Swoopes;Yolanda Griffith;Tamika Catchings
+Name an NBA player born outside the United States who played before 2025.|Luka Doncic;Giannis Antetokounmpo;Nikola Jokic;Dirk Nowitzki;Hakeem Olajuwon;Steve Nash;Joel Embiid;Tony Parker;Manu Ginobili;Yao Ming;Pau Gasol;Marc Gasol;Dikembe Mutombo;Patrick Ewing;Andrew Wiggins;Shai Gilgeous-Alexander;Rudy Gobert;Victor Wembanyama;Pascal Siakam;Al Horford
+Name an NBA franchise that existed in 2024 with an animal in its name.|Chicago Bulls;Milwaukee Bucks;Atlanta Hawks;Charlotte Hornets;Memphis Grizzlies;Minnesota Timberwolves;New Orleans Pelicans;Toronto Raptors
+Name a team Michael Jordan played for in the NBA.|Chicago Bulls;Washington Wizards
+Name an NBA franchise Shaquille O'Neal played for.|Orlando Magic;Los Angeles Lakers;Miami Heat;Phoenix Suns;Cleveland Cavaliers;Boston Celtics
+Name an NBA Defensive Player of the Year before 2025.|Rudy Gobert;Ben Wallace;Dikembe Mutombo;Dwight Howard;Hakeem Olajuwon;Michael Jordan;Gary Payton;Kawhi Leonard;Draymond Green;Giannis Antetokounmpo;Marcus Smart;Jaren Jackson Jr;Dennis Rodman;Alonzo Mourning;David Robinson
+Name an NBA franchise active in the 2024-25 season.|Boston Celtics;Los Angeles Lakers;Chicago Bulls;Golden State Warriors;San Antonio Spurs;Miami Heat;Detroit Pistons;Philadelphia 76ers;Houston Rockets;New York Knicks;Milwaukee Bucks;Dallas Mavericks;Cleveland Cavaliers;Toronto Raptors;Denver Nuggets;Portland Trail Blazers;Washington Wizards;Sacramento Kings;Atlanta Hawks;Oklahoma City Thunder;Brooklyn Nets;Phoenix Suns;Los Angeles Clippers;Utah Jazz;Orlando Magic;Indiana Pacers;Memphis Grizzlies;New Orleans Pelicans;Charlotte Hornets;Minnesota Timberwolves
+Name an NBA Rookie of the Year from 2000 through 2024.|LeBron James;Kevin Durant;Derrick Rose;Blake Griffin;Kyrie Irving;Damian Lillard;Luka Doncic;Ja Morant;LaMelo Ball;Paolo Banchero;Victor Wembanyama;Chris Paul;Emeka Okafor;Brandon Roy;Tyreke Evans;Karl-Anthony Towns;Andrew Wiggins;Ben Simmons;Malcolm Brogdon;Scottie Barnes
+Name an NBA Finals MVP before 2025.|Michael Jordan;LeBron James;Kobe Bryant;Shaquille O'Neal;Tim Duncan;Magic Johnson;Larry Bird;Kevin Durant;Stephen Curry;Kawhi Leonard;Giannis Antetokounmpo;Nikola Jokic;Jaylen Brown;Dwyane Wade;Dirk Nowitzki;Paul Pierce;Tony Parker;Andre Iguodala;Chauncey Billups;Hakeem Olajuwon
+Name an NBA Slam Dunk Contest winner before 2025.|Michael Jordan;Vince Carter;Kobe Bryant;Zach LaVine;Aaron Gordon;Nate Robinson;Spud Webb;Dominique Wilkins;Blake Griffin;Dwight Howard;Jason Richardson;Dee Brown;Mac McClung;Donovan Mitchell;John Wall
+Name an NBA Three-Point Contest winner before 2025.|Stephen Curry;Klay Thompson;Larry Bird;Damian Lillard;Buddy Hield;Karl-Anthony Towns;Ray Allen;Peja Stojakovic;Dirk Nowitzki;Kevin Love;Kyrie Irving;Devin Booker;Joe Harris;Paul Pierce;Jason Kapono
+Name a university that won the NCAA men's basketball tournament before 2025.|Duke;North Carolina;UCLA;Kentucky;Kansas;Connecticut;Villanova;Indiana;Michigan State;Louisville;Florida;Arizona;Syracuse;Baylor;Virginia;Michigan;Ohio State;Arkansas;Maryland;Georgetown
+Name an NBA franchise based in Texas in 2024.|Dallas Mavericks;Houston Rockets;San Antonio Spurs
+Name a player on the 2016 NBA champion Cleveland Cavaliers.|LeBron James;Kyrie Irving;Kevin Love;JR Smith;Tristan Thompson;Iman Shumpert;Channing Frye;Richard Jefferson;Matthew Dellavedova;James Jones;Timofey Mozgov;Mo Williams
+Name a piece of equipment used to play basketball.|Basketball;Hoop;Backboard;Net;Basketball shoes;Shot clock;Scoreboard
+Name a member of the 2008 US Olympic men's basketball team.|Kobe Bryant;LeBron James;Dwyane Wade;Carmelo Anthony;Chris Paul;Dwight Howard;Chris Bosh;Deron Williams;Jason Kidd;Carlos Boozer;Michael Redd;Tayshaun Prince
+Name a team LeBron James played for in the NBA through 2024.|Cleveland Cavaliers;Miami Heat;Los Angeles Lakers
+Name an NBA champion head coach before 2025.|Phil Jackson;Gregg Popovich;Pat Riley;Steve Kerr;Red Auerbach;Erik Spoelstra;Doc Rivers;Rick Carlisle;Nick Nurse;Mike Budenholzer;Michael Malone;Joe Mazzulla;Larry Brown;Rudy Tomjanovich;Chuck Daly
+Name a city that hosted the NBA All-Star Game from 2010 through 2024.|Dallas;Los Angeles;Orlando;Houston;New Orleans;New York;Toronto;Charlotte;Chicago;Atlanta;Cleveland;Salt Lake City;Indianapolis
+Name an NBA team that reached the Finals from 2010 through 2024.|Los Angeles Lakers;Boston Celtics;Miami Heat;Dallas Mavericks;Oklahoma City Thunder;San Antonio Spurs;Golden State Warriors;Cleveland Cavaliers;Toronto Raptors;Phoenix Suns;Milwaukee Bucks;Denver Nuggets
+Name an NBA player drafted first overall from 2000 through 2024.|LeBron James;Yao Ming;Dwight Howard;Derrick Rose;Blake Griffin;John Wall;Kyrie Irving;Anthony Davis;Andrew Wiggins;Karl-Anthony Towns;Ben Simmons;Markelle Fultz;Deandre Ayton;Zion Williamson;Anthony Edwards;Cade Cunningham;Paolo Banchero;Victor Wembanyama;Zaccharie Risacher;Kenyon Martin
+Name a men's basketball Olympic gold-medal country before 2025.|United States;Soviet Union;Yugoslavia;Argentina
+[Soccer]
+Name a country that won the men's FIFA World Cup before 2025.|Brazil;Argentina;France;Germany;Italy;Spain;England;Uruguay
+Name a men's Ballon d'Or winner before 2025.|Lionel Messi;Cristiano Ronaldo;Zinedine Zidane;Ronaldinho;Ronaldo;Kaka;Luka Modric;Karim Benzema;Rodri;George Weah;Roberto Baggio;Michel Platini;Johan Cruyff;Marco van Basten;Ruud Gullit;Paolo Rossi;Lothar Matthaus;Hristo Stoichkov;Pavel Nedved;Andriy Shevchenko
+Name an English Premier League club in the 2023-24 season.|Arsenal;Aston Villa;Bournemouth;Brentford;Brighton and Hove Albion;Burnley;Chelsea;Crystal Palace;Everton;Fulham;Liverpool;Luton Town;Manchester City;Manchester United;Newcastle United;Nottingham Forest;Sheffield United;Tottenham Hotspur;West Ham United;Wolverhampton Wanderers
+Name a club that won the European Cup or Champions League before 2025.|Real Madrid;Barcelona;Liverpool;Manchester United;Manchester City;Chelsea;Bayern Munich;Borussia Dortmund;AC Milan;Inter Milan;Juventus;Ajax;PSV Eindhoven;Feyenoord;Porto;Benfica;Celtic;Nottingham Forest;Aston Villa;Marseille;Hamburg;Red Star Belgrade;Steaua Bucharest
+Name a country that hosted the men's FIFA World Cup before 2025.|Uruguay;Italy;France;Brazil;Switzerland;Sweden;Chile;England;Mexico;Germany;Argentina;Spain;United States;South Korea;Japan;South Africa;Russia;Qatar
+Name a soccer position.|Goalkeeper;Center-back;Full-back;Wing-back;Defensive midfielder;Central midfielder;Attacking midfielder;Winger;Striker;Sweeper
+Name a way play is restarted in soccer.|Kick-off;Throw-in;Goal kick;Corner kick;Free kick;Penalty kick;Dropped ball
+Name a men's World Cup Golden Boot winner from 1982 through 2022.|Kylian Mbappe;Harry Kane;James Rodriguez;Thomas Muller;Miroslav Klose;Ronaldo;Davor Suker;Oleg Salenko;Hristo Stoichkov;Salvatore Schillaci;Gary Lineker;Paolo Rossi
+Name a club Lionel Messi played for through 2024.|Barcelona;Paris Saint-Germain;Inter Miami
+Name a club Cristiano Ronaldo played for through 2024.|Sporting CP;Manchester United;Real Madrid;Juventus;Al Nassr
+Name a country that won the women's FIFA World Cup before 2025.|United States;Norway;Germany;Japan;Spain
+Name a country that won the men's UEFA European Championship before 2025.|Spain;Germany;Italy;France;Portugal;Greece;Denmark;Netherlands;Czechoslovakia;Soviet Union
+Name a country that won the men's Copa America before 2025.|Argentina;Uruguay;Brazil;Chile;Paraguay;Peru;Colombia;Bolivia
+Name a goalkeeper who played in a men's World Cup before 2025.|Manuel Neuer;Gianluigi Buffon;Iker Casillas;Emiliano Martinez;Alisson;Hugo Lloris;Thibaut Courtois;Peter Schmeichel;Oliver Kahn;Lev Yashin;Gordon Banks;Dino Zoff;Keylor Navas;Guillermo Ochoa;Edwin van der Sar;David Seaman;Jordan Pickford;Wojciech Szczesny;Tim Howard;Rene Higuita
+Name a Spanish La Liga club in the 2023-24 season.|Real Madrid;Barcelona;Atletico Madrid;Sevilla;Valencia;Villarreal;Real Betis;Real Sociedad;Athletic Bilbao;Getafe;Osasuna;Girona;Celta Vigo;Mallorca;Alaves;Las Palmas;Rayo Vallecano;Cadiz;Granada;Almeria
+Name a German Bundesliga champion before 2025.|Bayern Munich;Borussia Dortmund;Bayer Leverkusen;Wolfsburg;Stuttgart;Werder Bremen;Hamburg;Kaiserslautern;Borussia Monchengladbach;Cologne;Nuremberg;Eintracht Braunschweig;1860 Munich
+Name an item a soccer referee uses.|Whistle;Yellow card;Red card;Watch;Notebook;Vanishing spray;Communication headset
+Name an Italian Serie A club in the 2023-24 season.|Inter Milan;AC Milan;Juventus;Napoli;Roma;Lazio;Atalanta;Fiorentina;Bologna;Torino;Genoa;Monza;Udinese;Lecce;Cagliari;Frosinone;Sassuolo;Empoli;Verona;Salernitana
+Name a football club based in London in 2024.|Arsenal;Chelsea;Tottenham Hotspur;West Ham United;Crystal Palace;Fulham;Brentford;Queens Park Rangers;Millwall;Charlton Athletic;Leyton Orient;AFC Wimbledon
+Name a stadium used at the 2022 men's FIFA World Cup.|Lusail Stadium;Al Bayt Stadium;Khalifa International Stadium;Education City Stadium;Al Thumama Stadium;Al Janoub Stadium;Ahmad bin Ali Stadium;Stadium 974
+Name a member of Argentina's 2022 World Cup squad.|Lionel Messi;Emiliano Martinez;Angel Di Maria;Julian Alvarez;Enzo Fernandez;Rodrigo De Paul;Alexis Mac Allister;Nicolas Otamendi;Cristian Romero;Nahuel Molina;Marcos Acuna;Lautaro Martinez;Paulo Dybala;Leandro Paredes;Gonzalo Montiel
+Name a member of France's 2018 World Cup squad.|Kylian Mbappe;Antoine Griezmann;Paul Pogba;N'Golo Kante;Hugo Lloris;Olivier Giroud;Raphael Varane;Samuel Umtiti;Benjamin Pavard;Lucas Hernandez;Blaise Matuidi;Ousmane Dembele;Corentin Tolisso;Steven Nzonzi;Thomas Lemar
+Name a member of Brazil's 2002 World Cup squad.|Ronaldo;Ronaldinho;Rivaldo;Cafu;Roberto Carlos;Kaka;Dida;Lucio;Gilberto Silva;Juninho Paulista;Denilson;Edmilson;Kleberson;Marcos;Roque Junior
+Name a manager who won the men's Champions League before 2025.|Carlo Ancelotti;Pep Guardiola;Jose Mourinho;Alex Ferguson;Jurgen Klopp;Zinedine Zidane;Jupp Heynckes;Ottmar Hitzfeld;Rafael Benitez;Frank Rijkaard;Luis Enrique;Roberto Di Matteo;Thomas Tuchel;Hansi Flick;Vicente del Bosque
+Name a country in South America's CONMEBOL federation.|Brazil;Argentina;Uruguay;Paraguay;Chile;Peru;Bolivia;Ecuador;Colombia;Venezuela
+Name a country that won the men's Africa Cup of Nations before 2025.|Egypt;Cameroon;Ghana;Nigeria;Ivory Coast;Algeria;Senegal;Zambia;Tunisia;Morocco;South Africa;Ethiopia;Sudan;DR Congo;Congo
+Name a player who won the FIFA Women's World Player award before 2016.|Marta;Mia Hamm;Birgit Prinz;Abby Wambach;Nadine Angerer;Homare Sawa
+Name a club Zlatan Ibrahimovic played for professionally.|Malmo;Ajax;Juventus;Inter Milan;Barcelona;AC Milan;Paris Saint-Germain;Manchester United;LA Galaxy
+Name a city that hosted a men's World Cup final before 2025.|Montevideo;Rome;Paris;Rio de Janeiro;Bern;Stockholm;Santiago;London;Mexico City;Munich;Buenos Aires;Madrid;Pasadena;Yokohama;Berlin;Johannesburg;Moscow;Lusail
+Name a major men's European domestic soccer league.|Premier League;La Liga;Serie A;Bundesliga;Ligue 1;Eredivisie;Primeira Liga;Scottish Premiership
+Name a type of foul or misconduct in soccer.|Handball;Tripping;Pushing;Holding;Dangerous play;Dissent;Violent conduct;Serious foul play
+Name an MLS club active in 2024.|LA Galaxy;Los Angeles FC;Inter Miami;Seattle Sounders;Portland Timbers;Atlanta United;Toronto FC;Vancouver Whitecaps;CF Montreal;New York Red Bulls;New York City FC;Columbus Crew;FC Cincinnati;Austin FC;Nashville SC;Orlando City;Charlotte FC;St Louis City;DC United;Chicago Fire
+[Football]
+Name an NFL franchise active in the 2024 season.|Kansas City Chiefs;San Francisco 49ers;Dallas Cowboys;New England Patriots;Green Bay Packers;Pittsburgh Steelers;Chicago Bears;New York Giants;Philadelphia Eagles;Baltimore Ravens;Buffalo Bills;Miami Dolphins;New York Jets;Denver Broncos;Las Vegas Raiders;Los Angeles Chargers;Los Angeles Rams;Seattle Seahawks;Minnesota Vikings;Detroit Lions;New Orleans Saints;Tampa Bay Buccaneers;Atlanta Falcons;Carolina Panthers;Houston Texans;Indianapolis Colts;Jacksonville Jaguars;Tennessee Titans;Cincinnati Bengals;Cleveland Browns;Arizona Cardinals;Washington Commanders
+Name a quarterback who won a Super Bowl before 2025.|Tom Brady;Patrick Mahomes;Peyton Manning;Eli Manning;Joe Montana;Terry Bradshaw;Troy Aikman;John Elway;Steve Young;Brett Favre;Aaron Rodgers;Drew Brees;Russell Wilson;Ben Roethlisberger;Kurt Warner;Nick Foles;Matthew Stafford;Joe Flacco;Trent Dilfer;Doug Williams
+Name an offensive position in American football.|Quarterback;Running back;Fullback;Wide receiver;Tight end;Center;Guard;Offensive tackle
+Name a defensive position in American football.|Linebacker;Cornerback;Safety;Defensive tackle;Defensive end;Nose tackle
+Name a way to score in American football.|Touchdown;Field goal;Safety;Extra point;Two-point conversion
+Name an NFL division.|AFC East;AFC West;AFC North;AFC South;NFC East;NFC West;NFC North;NFC South
+Name an NFL MVP from 2000 through 2024.|Tom Brady;Peyton Manning;Aaron Rodgers;Patrick Mahomes;Lamar Jackson;Cam Newton;Matt Ryan;Adrian Peterson;LaDainian Tomlinson;Shaun Alexander;Steve McNair;Kurt Warner;Marshall Faulk
+Name a Super Bowl host city or municipality before 2025.|New Orleans;Miami;Tampa;Los Angeles;Pasadena;San Diego;Houston;Atlanta;Detroit;Minneapolis;Indianapolis;Arlington;East Rutherford;Santa Clara;Glendale;Inglewood;Paradise;Jacksonville;Pontiac;Tempe
+Name an NFL team in the NFC East in 2024.|Dallas Cowboys;Philadelphia Eagles;New York Giants;Washington Commanders
+Name an NFL team in the AFC East in 2024.|New England Patriots;Buffalo Bills;Miami Dolphins;New York Jets
+Name an NFL team in the NFC North in 2024.|Green Bay Packers;Chicago Bears;Detroit Lions;Minnesota Vikings
+Name an NFL team in the AFC North in 2024.|Pittsburgh Steelers;Baltimore Ravens;Cincinnati Bengals;Cleveland Browns
+Name an NFL team in the NFC South in 2024.|New Orleans Saints;Tampa Bay Buccaneers;Atlanta Falcons;Carolina Panthers
+Name an NFL team in the AFC South in 2024.|Houston Texans;Indianapolis Colts;Jacksonville Jaguars;Tennessee Titans
+Name an NFL team in the NFC West in 2024.|San Francisco 49ers;Seattle Seahawks;Los Angeles Rams;Arizona Cardinals
+Name an NFL team in the AFC West in 2024.|Kansas City Chiefs;Denver Broncos;Las Vegas Raiders;Los Angeles Chargers
+Name a piece of American football protective equipment.|Helmet;Shoulder pads;Mouthguard;Thigh pads;Knee pads;Hip pads;Rib protector
+Name a Super Bowl champion franchise before 2025.|New England Patriots;Pittsburgh Steelers;Dallas Cowboys;San Francisco 49ers;Green Bay Packers;Kansas City Chiefs;New York Giants;Denver Broncos;Las Vegas Raiders;Washington Commanders;Miami Dolphins;Baltimore Ravens;Indianapolis Colts;Tampa Bay Buccaneers;Los Angeles Rams;Philadelphia Eagles;New Orleans Saints;Seattle Seahawks;Chicago Bears;New York Jets
+Name an NFL penalty.|Holding;Offside;False start;Pass interference;Roughing the passer;Delay of game;Intentional grounding;Illegal formation;Unsportsmanlike conduct;Facemask;Illegal contact
+Name a Heisman Trophy-winning quarterback before 2025.|Tim Tebow;Cam Newton;Joe Burrow;Lamar Jackson;Baker Mayfield;Kyler Murray;Caleb Williams;Jayden Daniels;Marcus Mariota;Jameis Winston;Johnny Manziel;Robert Griffin III;Sam Bradford;Carson Palmer;Matt Leinart;Roger Staubach;Doug Flutie;Charlie Ward;Danny Wuerffel;Troy Smith
+Name an NFL team Tom Brady played for.|New England Patriots;Tampa Bay Buccaneers
+Name an NFL team Peyton Manning played for.|Indianapolis Colts;Denver Broncos
+Name a receiver inducted into the Pro Football Hall of Fame before 2025.|Jerry Rice;Randy Moss;Terrell Owens;Calvin Johnson;Larry Fitzgerald;Cris Carter;Marvin Harrison;Isaac Bruce;Tim Brown;Andre Reed;Michael Irvin;Art Monk;Steve Largent;Lynn Swann;John Stallworth
+Name a running back inducted into the Pro Football Hall of Fame before 2025.|Barry Sanders;Walter Payton;Emmitt Smith;Jim Brown;Eric Dickerson;LaDainian Tomlinson;Marshall Faulk;Curtis Martin;Jerome Bettis;Tony Dorsett;Earl Campbell;Terrell Davis;Thurman Thomas;Marcus Allen;Franco Harris
+Name an NFL team with a bird in its 2024 name.|Philadelphia Eagles;Baltimore Ravens;Seattle Seahawks;Atlanta Falcons;Arizona Cardinals
+Name an NFL head coach who won a Super Bowl before 2025.|Bill Belichick;Andy Reid;Vince Lombardi;Don Shula;Chuck Noll;Bill Walsh;Joe Gibbs;Jimmy Johnson;Mike Tomlin;Tony Dungy;Pete Carroll;Sean Payton;Mike McCarthy;John Harbaugh;Sean McVay;Doug Pederson;Bruce Arians;Tom Coughlin;Dick Vermeil;Jon Gruden
+Name a US state with at least two NFL teams in 2024.|California;Florida;Texas;Ohio;Pennsylvania;New Jersey;Maryland
+Name a special-teams role in American football.|Kicker;Punter;Long snapper;Kick returner;Punt returner;Holder;Gunner
+Name a type of American football pass route.|Slant;Post;Corner;Go route;Out route;In route;Curl;Comeback;Wheel;Flat;Seam
+Name a type of American football defensive coverage.|Man-to-man;Zone;Cover 0;Cover 1;Cover 2;Cover 3;Cover 4;Cover 6
+Name a college football bowl game played before 2025.|Rose Bowl;Sugar Bowl;Orange Bowl;Cotton Bowl;Fiesta Bowl;Peach Bowl;Citrus Bowl;Alamo Bowl;Holiday Bowl;Gator Bowl;Sun Bowl;Liberty Bowl;Music City Bowl;Pinstripe Bowl;Las Vegas Bowl
+Name a famous American football rivalry.|Packers and Bears;Cowboys and Eagles;Steelers and Ravens;Chiefs and Raiders;Michigan and Ohio State;Alabama and Auburn;Army and Navy;Oklahoma and Texas;USC and Notre Dame
